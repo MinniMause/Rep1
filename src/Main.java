@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello Std!    ");
         System.out.println("Hello July!    ");
         System.out.println("Hello Check out   ");
+        System.out.println("Noch one method   ");
     }
 }
