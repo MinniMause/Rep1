@@ -8,7 +8,7 @@ public class Main {
     }
 
         private static String getHallo(){
-            return "Hallo aus getHallo()";
+            return "Hallo aus getHallo()     ";
         }
 
 }
